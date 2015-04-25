@@ -1,2 +1,2 @@
 # datasciencecoursera
-Course project repo
+Course project repo with README and HelloWorld files
